@@ -1,0 +1,16 @@
+#include <cstdlib>
+#include <iostream>
+#include <fstream>
+#include <string>
+#include "Gameboard.h"
+
+int main(){
+     int a(0), b(1), c(10), d(100), e(-100); 
+     int *pt1, *pt2; 
+     pt1 = &a; 
+     pt2 = &c;
+     a = b; 
+     *pt1 = 150; 
+     e = *pt1 + *pt2; 
+     d = c - *pt2; 
+}
