@@ -1,10 +1,7 @@
 /***************************************************************************
- * Name: Casey Cole
- * Email: coleca@email.sc.edu
+ * Name: Cort Miles
+ * Email: cort.miles@outlook.com
  * Function: String object header file
- * 
- * Copyright (C) 2020 by Casey Cole                                        *
- *                                                                         *
  ***************************************************************************/
 #include <iostream>
 using namespace std;
