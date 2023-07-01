@@ -1,6 +1,6 @@
 /**
  * 
- * @author fox6s
+ * @author Cort Miles
  *
  */
 import java.util.Random;
