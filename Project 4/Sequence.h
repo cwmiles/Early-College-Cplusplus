@@ -10,9 +10,6 @@
  * Output: None
  * 
  * Additional Comments: You made this assigment super hard. Please give us no more homework, thanks.
- * 
- * Copyright (C) 2020 by Cort Miles                                        
- *                                                                         *
  ***************************************************************************/
 #include <string>
 #include <iostream>
